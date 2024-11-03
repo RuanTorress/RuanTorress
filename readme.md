@@ -37,6 +37,24 @@
               >Ruan Torres</a
             >.
           </p>
+
+  Apresentação Profissional
+Olá, meu nome é Ruan Fabio Cavalcante Carvalho Torres, sou graduado em Análise e Desenvolvimento de Sistemas pela UNIGOIÁS e possuo uma formação sólida em tecnologias de desenvolvimento web. Tenho experiência prática em programação, trabalhando há mais de dois anos com diversas ferramentas e frameworks.
+
+Iniciei minha carreira com Vue.js e, atualmente, estou aprofundando meu conhecimento em React.js, Next.js e TypeScript. Além disso, sou proficiente em Tailwind CSS, Prettier, ESLint, Headless UI e react-router-dom. Em projetos anteriores, utilizei Material-UI e styled-components, o que me permitiu desenvolver interfaces de usuário modernas e responsivas.
+
+Atualmente, atuo em projetos internos da empresa, como um Sistema de Gestão de Pessoas e o site institucional, sempre com foco na usabilidade e acessibilidade do usuário. Estou comprometido em garantir que as aplicações sejam responsivas, funcionem bem em desktops, tablets e dispositivos móveis, além de integrar APIs e aplicar práticas de arquitetura e código limpo.
+
+Habilidades Técnicas
+Linguagens: JavaScript, TypeScript
+Frameworks e Bibliotecas: React.js, Next.js, Vue.js
+Estilização: Tailwind CSS, Material-UI, styled-components
+Ferramentas: Prettier, ESLint, Headless UI, react-router-dom
+Desenvolvimento Responsivo: Criação de layouts adaptáveis para diferentes dispositivos
+Integração com APIs: Conexão de aplicações a serviços externos
+Práticas de Desenvolvimento: Foco em usabilidade, acessibilidade, arquitetura de código e manutenção de padrões de qualidade
+Disponibilidade
+Estou aberto a oportunidades de trabalho em qualquer modelo que a empresa oferecer: presencial, híbrido ou remoto.
 </table>
 
 | ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuanTorress&theme=apprentice) | ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuanTorress&theme=apprentice) |
