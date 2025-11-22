@@ -39,11 +39,42 @@
           </p>
 
   Apresentação Profissional
-Olá, meu nome é Ruan Fabio Cavalcante Carvalho Torres, sou graduado em Análise e Desenvolvimento de Sistemas pela UNIGOIÁS e possuo uma formação sólida em tecnologias de desenvolvimento web. Tenho experiência prática em programação, trabalhando há mais de dois anos com diversas ferramentas e frameworks.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Full Stack desde 2022, com especialização em Flutter, React e no desenvolvimento de soluções completas para web e mobile. Ao longo da minha trajetória, participei da criação de sistemas para web, como plataformas de Central de Compras, aplicativos mobile, landing pages, gerenciadores integrados com APIs, blogs e soluções focadas em gestão de redes sociais — sempre priorizando desempenho, usabilidade e boa experiência do usuário.
 
-Iniciei minha carreira com Vue.js e, atualmente, estou aprofundando meu conhecimento em React.js, Next.js e TypeScript. Além disso, sou proficiente em Tailwind CSS, Prettier, ESLint, Headless UI e react-router-dom. Em projetos anteriores, utilizei Material-UI e styled-components, o que me permitiu desenvolver interfaces de usuário modernas e responsivas.
+No Front-End, possuo domínio avançado em Flutter/Dart, React, JavaScript, TypeScript e Next.js, aplicando princípios de UI/UX para construir interfaces responsivas, acessíveis e bem estruturadas.
 
-Atualmente, atuo em projetos internos da empresa, como um Sistema de Gestão de Pessoas e o site institucional, sempre com foco na usabilidade e acessibilidade do usuário. Estou comprometido em garantir que as aplicações sejam responsivas, funcionem bem em desktops, tablets e dispositivos móveis, além de integrar APIs e aplicar práticas de arquitetura e código limpo.
+No Back-End, tenho experiência com Node.js, Express, APIs REST, integrações com bancos de dados PostgreSQL e MongoDB, além de uso frequente de ferramentas como Postman para testes de API.
+
+Sou adepto de metodologias ágeis, utilizando práticas do Scrum e ferramentas como Trello e Kanban para organização, planejamento e entrega eficiente dos projetos.
+
+Principais Habilidades
+Front-End
+
+Flutter (Web e Mobile)
+
+React / React Native / Next.js
+
+JavaScript / TypeScript
+
+HTML / CSS / Bootstrap / Tailwind
+
+Dart / Docker / Git
+
+Back-End
+
+Node.js / Express / Python / C#
+
+PostgreSQL / MongoDB
+
+APIs REST / FastAPI
+
+Postman (testes e documentação)
+
+📩 Contato
+
+E-mail: ruanfabio59@gmail.com
+
+GitHub: Ruan Torres
 
 Habilidades Técnicas
 Linguagens: JavaScript, TypeScript
@@ -62,5 +93,6 @@ Estou aberto a oportunidades de trabalho em qualquer modelo que a empresa oferec
 
 | ![Linguagem Mais Comitada](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuanTorress&theme=apprentice) | ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuanTorress&theme=apprentice) | ![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuanTorress&theme=apprentice&utcOffset=8) |
 | :-: | :-: | :-: |
+
 
 
